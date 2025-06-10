@@ -1,11 +1,5 @@
 for test
-تیتیی
-یمینیمیم
-ثمینثمثم
-صمصنثمث
-سمیننیین
 
-میمییمیمیصمصسن
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
 sudo apt-get update
