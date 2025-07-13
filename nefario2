@@ -1,12 +1,5 @@
 for test
-hdhduf
-skskskd
-ssiosoee
-sskekeoe
-semkes
-skeoeoe
-sksdidididddkdidod
-skdkdododod
+
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
 sudo apt-get update
