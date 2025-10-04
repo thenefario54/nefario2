@@ -1,6 +1,6 @@
 for test
 
-good 👍 
+ 
 
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
